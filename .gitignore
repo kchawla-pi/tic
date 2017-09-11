@@ -1,6 +1,6 @@
 # USer set: Directories to be ignored
 read_dicom/
-slice_timings/
+slice_timing/
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Windows template
